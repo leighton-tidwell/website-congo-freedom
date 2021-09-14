@@ -27,7 +27,7 @@
 		</div>
 		<nav class="navbar" style="border-bottom: 5px solid #32ae8b;margin-bottom:0px;background-color:#fff;">
 			<div class="col-md-6 col-xs-8" style="text-align:right;">
-				<span class="congo"><a data-ajax="false" href="index.html">Congo Freedom Alliance</a></span>
+				<span class="congo"><a data-ajax="false" href="index.php">Congo Freedom Alliance</a></span>
 			</div>
 			<div class="col-xs-4 col-md-offset-2 col-md-4 visible-xs visible-sm visible-md mobileNavContainer">
 				<div class="mobileNavButton">
