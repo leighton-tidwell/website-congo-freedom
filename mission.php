@@ -113,7 +113,7 @@
                                         Society and individual freedoms, liberty, equality, and human rights. See <a data-ajax="false" href="http://www.un.org/en/universal-declaration-human-rights/">http://www.un.org/en/universal-declaration-human-rights/</a> and <a data-ajax="false" href="https://www.archives.gov/founding-docs/bill-of-rights">https://www.archives.gov/founding-docs/bill-of-rights</a>
                                     </li>
                                     <li>
-                                        Effective national, state and local constitutions. Thomas Jefferson said: “In questions of powers, then, let no more be heard of confidence in man, but bind him down from mischief by the chains of the Constitution.” Of a “good” Constitution.
+                                        Effective national, state and local constitutions. Thomas Jefferson said: ï¿½In questions of powers, then, let no more be heard of confidence in man, but bind him down from mischief by the chains of the Constitution.ï¿½ Of a ï¿½goodï¿½ Constitution.
                                     </li>
                                     <li>
                                         Efficient and effective separation of powers 
@@ -122,8 +122,8 @@
                                         provide for the needs of the people, protect the State,
                                         and prevent abuse of power. How successful countries have
                                         adopted more effective restraints to prevent abuse of power. 
-                                        British Lord Acton said: “Power tends to corrupt and absolute
-                                        power corrupts absolutely.” See Federalist Papers # 51 on 
+                                        British Lord Acton said: ï¿½Power tends to corrupt and absolute
+                                        power corrupts absolutely.ï¿½ See Federalist Papers # 51 on 
                                         government checks and balances 
                                         <br />
                                         <a data-ajax="false" href="https://www.congress.gov/resources/display/content/The+Federalist+Papers#TheFederalistPapers-51">https://www.congress.gov/resources/display/content/The+Federalist+Papers#TheFederalistPapers-51</a>
@@ -199,7 +199,7 @@
                                     happiness, safety, and wellbeing. Congo Freedom Alliance
                                     seeks to encourage society policies that furthers 
                                     achieving UN General Assembly Resolution 65/309 titled 
-                                    “Happiness: towards a holistic approach to development.” 
+                                    ï¿½Happiness: towards a holistic approach to development.ï¿½ 
                                     For text of the United Nations Resolution 65/309 see 
                                     <a data-ajax="false" href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/65/309&referer=/english/&Lang=E">http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/65/309&referer=/english/&Lang=E</a> 
                                     and see further details on the United Nations encouraging 
@@ -212,8 +212,8 @@
                                     best for society as identified by 35 developed democratic 
                                     nations (Organization for Economic Co-operation and Development)
                                     that includes 11 topics identified as essential to human
-                                    well-being, such as “material living conditions” (housing, 
-                                    income, jobs) and “quality of life” (community, education, 
+                                    well-being, such as ï¿½material living conditionsï¿½ (housing, 
+                                    income, jobs) and ï¿½quality of lifeï¿½ (community, education, 
                                     environment, governance, health, life satisfaction, safety 
                                     and work-life balance). For details on OECD topics essential
                                     to human well-being. <br />
@@ -245,7 +245,7 @@
                                 </p>
                                 <hr >
                                 <p>
-                                    Thus the USA alone since the 1960s has contributed billions that if had not been needed, could have been used at home for USA problems. The DR Congo peacekeeping mission is the single largest contribution of UN resources anywhere in the world. Very costly. This adds up to a large amount of scarce financial and human resources over decades tied up there that could be used elsewhere, if solutions were found to the Congo problem. It is Congo Freedom Alliance’s purpose is to be part of the solution so the DRC is no longer a drain on African continent and world resources.
+                                    Thus the USA alone since the 1960s has contributed billions that if had not been needed, could have been used at home for USA problems. The DR Congo peacekeeping mission is the single largest contribution of UN resources anywhere in the world. Very costly. This adds up to a large amount of scarce financial and human resources over decades tied up there that could be used elsewhere, if solutions were found to the Congo problem. It is Congo Freedom Allianceï¿½s purpose is to be part of the solution so the DRC is no longer a drain on African continent and world resources.
                                 </p>
                                 <p>
                                     Congo Freedom Alliance welcomes any ideas that contribute to improving the lives of all Congolese - especially for the children, who are the future.
@@ -257,13 +257,13 @@
 					<!--<iframe src="http://docs.google.com/gview?url=http://congofreedom.org/mission.pdf&embedded=true" style="width:100%; min-height:600px;" frameborder="0"></iframe>-->
 					<!--&nbsp;&nbsp;&nbsp;Congo Freedom Alliance is an international pro-democracy think tank.  We study and advocate for good governance ideas in the DR Congo such as:  effective national and provincial constitutions with national supremacy over essential functions, separation of powers and checks and balances to prevent abuse of power, rule of law, truth, justice, freedoms, individual liberty, equality, human rights, and republic representative government in which supreme power resides among Congolese citizens who choose elected representatives based on honest fair elections absent of corruption.  Elected representatives and all other employees of government are responsible to the people and they govern only according to law and are tightly regulated by strong anti-corruption laws that can result in severe punishment.
 					<br /><hr>
-					&nbsp;&nbsp;&nbsp;Congolese want a civilian government of, by and for all the people in the DR Congo, rather than rule by corrupt foreign and domestic civilian and military dictators benefiting only the few.  We think about how government can be inclusive of the many Congo voices, rather than the dictatorial personalities past and present who ignore and marginalize the will of the people.  We examine how successful countries have adopted more effective restraints to prevent abuse of power.  British Lord Acton said: “Power tends to corrupt and absolute power corrupts absolutely.” (<a data-ajax="false" href="https://www.congress.gov/resources/display/content/The+Federalist+Papers#TheFederalistPapers-51">See Federalists Papers</a>)   Thomas Jefferson said: “In questions of powers, then, let no more be heard of confidence in man, but bind him down from mischief by the chains of the Constitution.”  Of a “good” Constitution.
+					&nbsp;&nbsp;&nbsp;Congolese want a civilian government of, by and for all the people in the DR Congo, rather than rule by corrupt foreign and domestic civilian and military dictators benefiting only the few.  We think about how government can be inclusive of the many Congo voices, rather than the dictatorial personalities past and present who ignore and marginalize the will of the people.  We examine how successful countries have adopted more effective restraints to prevent abuse of power.  British Lord Acton said: ï¿½Power tends to corrupt and absolute power corrupts absolutely.ï¿½ (<a data-ajax="false" href="https://www.congress.gov/resources/display/content/The+Federalist+Papers#TheFederalistPapers-51">See Federalists Papers</a>)   Thomas Jefferson said: ï¿½In questions of powers, then, let no more be heard of confidence in man, but bind him down from mischief by the chains of the Constitution.ï¿½  Of a ï¿½goodï¿½ Constitution.
 					<br /><hr>
-					&nbsp;&nbsp;&nbsp;The goal of we Congolese is to achieve harmony by our government focusing on all issues contributing to our happiness, our safety, and our well-being, as encouraged by <a data-ajax="false" href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/65/309">UN General Assembly Resolution</a> 65/309 titled “Happiness: towards a holistic approach to development.” <sup>1</sup>  To achieve our goals, we Congolese have identified intermediate objectives as identified by <a data-ajax="false" href="http://www.oecdbetterlifeindex.org/#/11111111111">OECD’s 11 topics</a> that are essential to human well-being in terms of “material living conditions” (housing, income, jobs) and “quality of life” (community, education, environment, governance, health, life satisfaction, safety and work-life balance).   Congolese want to know that governments and businesses are working together to provide the basic needs of the people.
+					&nbsp;&nbsp;&nbsp;The goal of we Congolese is to achieve harmony by our government focusing on all issues contributing to our happiness, our safety, and our well-being, as encouraged by <a data-ajax="false" href="http://www.un.org/en/ga/search/view_doc.asp?symbol=A/RES/65/309">UN General Assembly Resolution</a> 65/309 titled ï¿½Happiness: towards a holistic approach to development.ï¿½ <sup>1</sup>  To achieve our goals, we Congolese have identified intermediate objectives as identified by <a data-ajax="false" href="http://www.oecdbetterlifeindex.org/#/11111111111">OECDï¿½s 11 topics</a> that are essential to human well-being in terms of ï¿½material living conditionsï¿½ (housing, income, jobs) and ï¿½quality of lifeï¿½ (community, education, environment, governance, health, life satisfaction, safety and work-life balance).   Congolese want to know that governments and businesses are working together to provide the basic needs of the people.
 					<br /><hr>
 					&nbsp;&nbsp;&nbsp;Congolese want to establish new government organizations to protect the people from internal and external threats so they no longer live in a perpetual state of fear.  Congolese want the development of civil and military government agencies where these public servants deliver essential services to all Congolese in a neutral fair efficient and effective manner absent of corruption, and so government is no longer the feared oppressors of the people, but instead they are servants of the people.  Government must be reconstructed so it not only can accomplish all the things people need government to do, but also to construct restraints in law that forces government to control itself.
 					<br /><hr>
-					&nbsp;&nbsp;&nbsp;Congo Freedom Alliance welcomes any ideas that contribute to improving the lives of all Congolese - especially for our children, who are the future.  Congo Freedom Alliance is a 501 (C)(4) non-profit registered with the Texas Secretary of State – founded by University of Texas Congolese refugee students, who were victims of war, and their faculty advisor.  Congo Freedom Alliance represents hope for positive change, and has grown to include the voices of many influential Congolese war refugees around the world and their families and friends still in danger inside the DR Congo.
+					&nbsp;&nbsp;&nbsp;Congo Freedom Alliance welcomes any ideas that contribute to improving the lives of all Congolese - especially for our children, who are the future.  Congo Freedom Alliance is a 501 (C)(4) non-profit registered with the Texas Secretary of State ï¿½ founded by University of Texas Congolese refugee students, who were victims of war, and their faculty advisor.  Congo Freedom Alliance represents hope for positive change, and has grown to include the voices of many influential Congolese war refugees around the world and their families and friends still in danger inside the DR Congo.
 					<br /><hr>
 					<sup>1. See further details on the United Nations encouraging world governments to adopt policies that lead to happiness <a data-ajax="false" href="http://www.un.org/esa/socdev/ageing/documents/NOTEONHAPPINESSFINALCLEAN.pdf">http://www.un.org/esa/socdev/ageing/documents/NOTEONHAPPINESSFINALCLEAN.pdf</a></sup>
 -->
@@ -297,8 +297,8 @@
 
 			
 		<!-- Javascript -->
-		<script src="http://code.jquery.com/jquery-1.11.1.min.js"></script>
-		<script src="http://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
+		<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>
+		<script src="https://code.jquery.com/mobile/1.4.5/jquery.mobile-1.4.5.min.js"></script>
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
 		<script>
 			$(".mobileNavUL").hide();
